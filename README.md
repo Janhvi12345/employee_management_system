@@ -70,3 +70,11 @@ employee_management_system
 
 ---
 
+## 🧠 What I Learned
+
+- Understanding JDBC and database connectivity
+- Applying MVC architecture in Java
+- Structuring Java projects professionally
+- Using Git and GitHub for version control
+- Debugging and fixing runtime issues
+
